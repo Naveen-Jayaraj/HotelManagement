@@ -157,6 +157,10 @@ Runs at: [http://localhost:3000](http://localhost:3000)
 3rd Year B.Tech CSE (AIML)  
 [LinkedIn](https://www.linkedin.com/in/manu-krishnan005)
 
+**Madhav K Mohan**  
+3rd Year B.Tech CSE (AIML)  
+[LinkedIn](https://www.linkedin.com/in/madhav-k-mohan-88321a344)
+
 ---
 
 ## License
